@@ -31,7 +31,7 @@ This project is a news hosting website that allows users to browse and read news
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [News API](https://newsapi.org) - Used for fetching news articles.
+- [News API](https://newsapi.org) - Used for fetching news articles.(Note: Currently in developer mode, unable to host live.)
 
 
 ## Installation
